@@ -1,0 +1,12 @@
+F:\Downloads\Task2\src\University.Interfaces\bin\Debug\net6.0\University.Interfaces.deps.json
+F:\Downloads\Task2\src\University.Interfaces\bin\Debug\net6.0\University.Interfaces.dll
+F:\Downloads\Task2\src\University.Interfaces\bin\Debug\net6.0\University.Interfaces.pdb
+F:\Downloads\Task2\src\University.Interfaces\obj\Debug\net6.0\University.Interfaces.csproj.AssemblyReference.cache
+F:\Downloads\Task2\src\University.Interfaces\obj\Debug\net6.0\University.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\Task2\src\University.Interfaces\obj\Debug\net6.0\University.Interfaces.AssemblyInfoInputs.cache
+F:\Downloads\Task2\src\University.Interfaces\obj\Debug\net6.0\University.Interfaces.AssemblyInfo.cs
+F:\Downloads\Task2\src\University.Interfaces\obj\Debug\net6.0\University.Interfaces.csproj.CoreCompileInputs.cache
+F:\Downloads\Task2\src\University.Interfaces\obj\Debug\net6.0\University.Interfaces.dll
+F:\Downloads\Task2\src\University.Interfaces\obj\Debug\net6.0\refint\University.Interfaces.dll
+F:\Downloads\Task2\src\University.Interfaces\obj\Debug\net6.0\University.Interfaces.pdb
+F:\Downloads\Task2\src\University.Interfaces\obj\Debug\net6.0\ref\University.Interfaces.dll

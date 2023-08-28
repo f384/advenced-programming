@@ -1,0 +1,12 @@
+F:\Downloads\Task1\src\University.Extensions\bin\Debug\net6.0\University.Extensions.deps.json
+F:\Downloads\Task1\src\University.Extensions\bin\Debug\net6.0\University.Extensions.dll
+F:\Downloads\Task1\src\University.Extensions\bin\Debug\net6.0\University.Extensions.pdb
+F:\Downloads\Task1\src\University.Extensions\obj\Debug\net6.0\University.Extensions.csproj.AssemblyReference.cache
+F:\Downloads\Task1\src\University.Extensions\obj\Debug\net6.0\University.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\Task1\src\University.Extensions\obj\Debug\net6.0\University.Extensions.AssemblyInfoInputs.cache
+F:\Downloads\Task1\src\University.Extensions\obj\Debug\net6.0\University.Extensions.AssemblyInfo.cs
+F:\Downloads\Task1\src\University.Extensions\obj\Debug\net6.0\University.Extensions.csproj.CoreCompileInputs.cache
+F:\Downloads\Task1\src\University.Extensions\obj\Debug\net6.0\University.Extensions.dll
+F:\Downloads\Task1\src\University.Extensions\obj\Debug\net6.0\refint\University.Extensions.dll
+F:\Downloads\Task1\src\University.Extensions\obj\Debug\net6.0\University.Extensions.pdb
+F:\Downloads\Task1\src\University.Extensions\obj\Debug\net6.0\ref\University.Extensions.dll

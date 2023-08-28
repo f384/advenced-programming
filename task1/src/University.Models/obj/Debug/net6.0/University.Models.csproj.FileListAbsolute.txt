@@ -1,0 +1,12 @@
+F:\Downloads\Task1\src\University.Models\bin\Debug\net6.0\University.Models.deps.json
+F:\Downloads\Task1\src\University.Models\bin\Debug\net6.0\University.Models.dll
+F:\Downloads\Task1\src\University.Models\bin\Debug\net6.0\University.Models.pdb
+F:\Downloads\Task1\src\University.Models\obj\Debug\net6.0\University.Models.csproj.AssemblyReference.cache
+F:\Downloads\Task1\src\University.Models\obj\Debug\net6.0\University.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\Task1\src\University.Models\obj\Debug\net6.0\University.Models.AssemblyInfoInputs.cache
+F:\Downloads\Task1\src\University.Models\obj\Debug\net6.0\University.Models.AssemblyInfo.cs
+F:\Downloads\Task1\src\University.Models\obj\Debug\net6.0\University.Models.csproj.CoreCompileInputs.cache
+F:\Downloads\Task1\src\University.Models\obj\Debug\net6.0\University.Models.dll
+F:\Downloads\Task1\src\University.Models\obj\Debug\net6.0\refint\University.Models.dll
+F:\Downloads\Task1\src\University.Models\obj\Debug\net6.0\University.Models.pdb
+F:\Downloads\Task1\src\University.Models\obj\Debug\net6.0\ref\University.Models.dll

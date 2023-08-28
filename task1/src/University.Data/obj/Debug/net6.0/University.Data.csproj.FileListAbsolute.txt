@@ -1,0 +1,17 @@
+F:\Downloads\Task1\src\University.Data\bin\Debug\net6.0\University.Data.deps.json
+F:\Downloads\Task1\src\University.Data\bin\Debug\net6.0\University.Data.runtimeconfig.json
+F:\Downloads\Task1\src\University.Data\bin\Debug\net6.0\University.Data.dll
+F:\Downloads\Task1\src\University.Data\bin\Debug\net6.0\University.Data.pdb
+F:\Downloads\Task1\src\University.Data\bin\Debug\net6.0\University.Models.dll
+F:\Downloads\Task1\src\University.Data\bin\Debug\net6.0\University.Models.pdb
+F:\Downloads\Task1\src\University.Data\obj\Debug\net6.0\University.Data.csproj.AssemblyReference.cache
+F:\Downloads\Task1\src\University.Data\obj\Debug\net6.0\University.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\Task1\src\University.Data\obj\Debug\net6.0\University.Data.AssemblyInfoInputs.cache
+F:\Downloads\Task1\src\University.Data\obj\Debug\net6.0\University.Data.AssemblyInfo.cs
+F:\Downloads\Task1\src\University.Data\obj\Debug\net6.0\University.Data.csproj.CoreCompileInputs.cache
+F:\Downloads\Task1\src\University.Data\obj\Debug\net6.0\University.Data.csproj.CopyComplete
+F:\Downloads\Task1\src\University.Data\obj\Debug\net6.0\University.Data.dll
+F:\Downloads\Task1\src\University.Data\obj\Debug\net6.0\refint\University.Data.dll
+F:\Downloads\Task1\src\University.Data\obj\Debug\net6.0\University.Data.pdb
+F:\Downloads\Task1\src\University.Data\obj\Debug\net6.0\University.Data.genruntimeconfig.cache
+F:\Downloads\Task1\src\University.Data\obj\Debug\net6.0\ref\University.Data.dll
